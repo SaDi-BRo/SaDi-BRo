@@ -1,13 +1,12 @@
 <h1 align="center">Welcome You're</h1>
-
+<p>Junior Web Developer</p>
 <h3>Skills</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
+  <li>JavaScript + TypeScript</li>
   <li>ReactJS + NextJS</li>
   <li>Redux</li>
-  <li>TypeScript</li>
   <li>NodeJS</li>
   <li>ExpressJS</li>
   <li>NoSQL</li>
