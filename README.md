@@ -1,1 +1,21 @@
-## Welcome :)
+<h1 align="center">Welcome You're</h1>
+
+<h3>Skills</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>ReactJS + NextJS</li>
+  <li>Redux</li>
+  <li>TypeScript</li>
+  <li>NodeJS</li>
+  <li>ExpressJS</li>
+  <li>NoSQL</li>
+  <li>MongoDB</li>
+  <li>NestJS</li>
+  <li>Linux</li>
+</ul>
+
+<h3>Contact</h3>
+<a href="https://t.me/SaDi_BRo">Telegram</a> <br />
+<a href="mailto:sayidullohabbasov0909@gmail.com">E-pochta</a>
