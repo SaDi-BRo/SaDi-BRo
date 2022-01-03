@@ -20,4 +20,4 @@
 
 <h3>Contact</h3>
 <a href="https://t.me/SaDi_BRo">Telegram</a> <br />
-<a href="mailto:sayidullohabbasov0909@gmail.com">E-pochta</a>
+<a href="mailto:sayidullohabbasov0909@gmail.com">Email</a>
