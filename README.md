@@ -12,6 +12,9 @@
   <li>NoSQL</li>
   <li>MongoDB</li>
   <li>NestJS</li>
+  <li>Telegram bot</li>
+  <li>grammY</li>
+  <li>Telegraf JS</li>
   <li>Linux</li>
 </ul>
 
