@@ -8,6 +8,7 @@
   <li>ReactJS + NextJS</li>
   <li>Redux</li>
   <li>NodeJS</li>
+  <li>Git + GitHub</li>
   <li>ExpressJS</li>
   <li>NoSQL</li>
   <li>MongoDB</li>
