@@ -6,6 +6,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Bootstrap</li>
   <li>JavaScript + TypeScript</li>
   <li>ReactJS + NextJS</li>
   <li>Redux</li>
