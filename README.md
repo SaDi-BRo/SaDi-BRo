@@ -10,7 +10,7 @@
   <li>JavaScript + TypeScript</li>
   <li>ReactJS + NextJS</li>
   <li>Redux</li>
-  <li>NodeJS</li>
+  <li>NodeJS + Deno</li>
   <li>Git + GitHub</li>
   <li>ExpressJS</li>
   <li>NoSQL</li>
