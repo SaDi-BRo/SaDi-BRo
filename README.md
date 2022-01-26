@@ -1,5 +1,5 @@
-<h1 align="center">Welcome You're</h1>
-<p>Junior Web Developer</p> | <p>Loves Backend</p>
+<h1 align="center">Welcome You're🔕</h1>
+<span>Junior Web Developer | Loves Backend</span>
 <br />
 <p>Status: <i>Learning</i></p>
 <h3>Skills</h3>
@@ -23,5 +23,11 @@
 </ul>
 
 <h3>Contact</h3>
-<a href="https://t.me/SaDi_BRo">Telegram</a> <br />
-<a href="mailto:sayidullohabbasov0909@gmail.com">Email</a>
+<ul>
+  <li>
+    <a href="https://t.me/SaDi_BRo">Telegram</a> <br />
+  </li>
+  <li>
+    <a href="mailto:sayidullohabbasov0909@gmail.com">Email</a>
+  </li>
+</ul>
