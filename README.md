@@ -1,5 +1,5 @@
 <h1 align="center">Welcome You're</h1>
-<p>Junior Web Developer</p>
+<p>Junior Web Developer</p> | <p>Loves Backend</p>
 <br />
 <p>Status: <i>Learning</i></p>
 <h3>Skills</h3>
