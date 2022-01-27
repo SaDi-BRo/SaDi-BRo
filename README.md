@@ -10,7 +10,7 @@
   <li>JavaScript + TypeScript</li>
   <li>ReactJS + NextJS</li>
   <li>Redux</li>
-  <li>NodeJS + Deno</li>
+  <li>NodeJS + Deno.land</li>
   <li>Git + GitHub</li>
   <li>ExpressJS</li>
   <li>NoSQL</li>
@@ -25,9 +25,9 @@
 <h3>Contact</h3>
 <ul>
   <li>
-    <a href="https://t.me/SaDi_BRo">Telegram</a> <br />
+    <a href="mailto:sayidullohabbasov0909@gmail.com">Email</a>
   </li>
   <li>
-    <a href="mailto:sayidullohabbasov0909@gmail.com">Email</a>
+    <a href="https://t.me/SaDi_BRo">Telegram</a> <br />
   </li>
 </ul>
