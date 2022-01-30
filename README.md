@@ -1,7 +1,7 @@
 <h1 align="center">Welcome You're 🔕</h1>
 <span>Junior Web Developer | Loves Backend</span>
 <br />
-<p>Status: <i>Learning</i></p>
+<p>Status: <i>Trying</i></p>
 <h3>Skills</h3>
 <ul>
   <li>HTML</li>
