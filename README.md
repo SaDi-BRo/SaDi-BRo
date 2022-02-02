@@ -4,8 +4,7 @@
 <p>Status: <i>Trying</i></p>
 <h3>Skills</h3>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML + CSS</li>
   <li>Bootstrap</li>
   <li>JavaScript + TypeScript</li>
   <li>ReactJS + NextJS</li>
