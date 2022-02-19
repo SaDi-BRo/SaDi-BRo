@@ -7,17 +7,17 @@
   <li>HTML + CSS</li>
   <li>Bootstrap</li>
   <li>JavaScript + TypeScript</li>
-  <li>ReactJS + NextJS</li>
+  <li>React.js + Next.js</li>
   <li>Redux</li>
-  <li>NodeJS + Deno.land</li>
+  <li>Node.js + Deno.land</li>
   <li>Git + GitHub</li>
-  <li>ExpressJS</li>
+  <li>Express.js</li>
   <li>NoSQL</li>
   <li>MongoDB</li>
-  <li>NestJS</li>
+  <li>Nest.js</li>
   <li>Telegram bot</li>
   <li>grammY</li>
-  <li>Telegraf JS</li>
+  <li>Telegraf.js</li>
   <li>Linux</li>
 </ul>
 
