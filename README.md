@@ -28,7 +28,9 @@
 <img align="left" alt="Windows" height="26px" width="26px" src="image/windows.png" />
 <img align="left" alt="Heroku" height="26px" width="26px" src="image/heroku.png" />
 <img align="left" alt="Docker" height="26px" width="26px" src="image/docker.png" />
-
+<br/>
+<br/>
+<br/>
 <h5>Learning</h5>
 <img align="left" alt="Docker" height="26px" width="26px" src="image/rust.png" />
 <img align="left" alt="Docker" height="26px" width="26px" src="image/go.png" />
