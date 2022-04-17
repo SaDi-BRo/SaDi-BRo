@@ -5,25 +5,25 @@
 <h3>I'm SaDi, Uzbek boy. So I'm web junior developer.</h3>
 
 <h5>Technologies</h5>
-<img align="left" alt="HTML" width="26px" src="image/html.svg" />
-<img align="left" alt="CSS" width="26px" src="image/css.svg" />
-<img align="left" alt="CSS" width="26px" src="image/bootstrap.svg" />
-<img align="left" alt="CSS" width="26px" src="image/javascript.svg" />
-<img align="left" alt="CSS" width="26px" src="image/typescript.svg" />
-<img align="left" alt="CSS" width="26px" src="image/reactjs.svg" />
-<img align="left" alt="CSS" width="26px" src="image/nextjs.svg" />
-<img align="left" alt="CSS" width="26px" src="image/redux.svg" />
-<img align="left" alt="CSS" width="26px" src="image/nodejs.svg" />
-<img align="left" alt="CSS" width="26px" src="image/denoland.svg" />
-<img align="left" alt="CSS" width="26px" src="image/git.svg" />
-<img align="left" alt="CSS" width="26px" src="image/github.svg" />
-<img align="left" alt="CSS" width="26px" src="image/mongodb.svg" />
-<img align="left" alt="CSS" width="26px" src="image/nestjs.svg" />
-<img align="left" alt="CSS" width="26px" src="image/grammyjs.svg" />
-<img align="left" alt="CSS" width="26px" src="image/linux.svg" />
-<img align="left" alt="CSS" width="26px" src="image/archlinux.svg" />
-<img align="left" alt="CSS" width="26px" src="image/debian.svg" />
-<img align="left" alt="CSS" width="26px" src="image/vscode.svg" />
-<img align="left" alt="CSS" width="26px" src="image/neovim.svg" />
-<img align="left" alt="CSS" width="26px" src="image/windows.svg" />
-<img align="left" alt="CSS" width="26px" src="image/heroku.svg" />
+<img align="left" alt="HTML" height="26px" width="26px" src="image/html.png" />
+<img align="left" alt="CSS" height="26px" width="26px" src="image/css.png" />
+<img align="left" alt="Bootstrap" height="26px" width="26px" src="image/bootstrap.png" />
+<img align="left" alt="JavaScript" height="26px" width="26px" src="image/javascript.png" />
+<img align="left" alt="TypeScript" height="26px" width="26px" src="image/typescript.png" />
+<img align="left" alt="React.js" height="26px" width="26px" src="image/reactjs.png" />
+<img align="left" alt="Next.js" height="26px" width="26px" src="image/nextjs.png" />
+<img align="left" alt="Redux" height="26px" width="26px" src="image/redux.png" />
+<img align="left" alt="Node.js" height="26px" width="26px" src="image/nodejs.png" />
+<img align="left" alt="Deno.land" height="26px" width="26px" src="image/denoland.png" />
+<img align="left" alt="Git" height="26px" width="26px" src="image/git.png" />
+<img align="left" alt="GitHub" height="26px" width="26px" src="image/github.png" />
+<img align="left" alt="MongoDB" height="26px" width="26px" src="image/mongodb.png" />
+<img align="left" alt="Nest.js" height="26px" width="26px" src="image/nestjs.png" />
+<img align="left" alt="grammY" height="26px" width="26px" src="image/grammyjs.png" />
+<img align="left" alt="Linux" height="26px" width="26px" src="image/linux.png" />
+<img align="left" alt="Arch Linux" height="26px" width="26px" src="image/archlinux.png" />
+<img align="left" alt="Debian" height="26px" width="26px" src="image/debian.png" />
+<img align="left" alt="VS Code" height="26px" width="26px" src="image/vscode.png" />
+<img align="left" alt="Neovim" height="26px" width="26px" src="image/neovim.png" />
+<img align="left" alt="Windows" height="26px" width="26px" src="image/windows.png" />
+<img align="left" alt="Heroku" height="26px" width="26px" src="image/heroku.png" />
