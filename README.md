@@ -27,3 +27,8 @@
 <img align="left" alt="Neovim" height="26px" width="26px" src="image/neovim.png" />
 <img align="left" alt="Windows" height="26px" width="26px" src="image/windows.png" />
 <img align="left" alt="Heroku" height="26px" width="26px" src="image/heroku.png" />
+<img align="left" alt="Docker" height="26px" width="26px" src="image/docker.png" />
+
+<h5>Learning</h5>
+<img align="left" alt="Docker" height="26px" width="26px" src="image/rust.png" />
+<img align="left" alt="Docker" height="26px" width="26px" src="image/go.png" />
