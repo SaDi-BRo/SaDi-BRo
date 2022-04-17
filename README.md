@@ -32,5 +32,5 @@
 <br/>
 <br/>
 <h5>Learning</h5>
-<img align="left" alt="Docker" height="26px" width="26px" src="image/rust.png" />
-<img align="left" alt="Docker" height="26px" width="26px" src="image/go.png" />
+<img align="left" alt="Rust" height="26px" width="26px" src="image/rust.png" />
+<img align="left" alt="Go" height="26px" width="26px" src="image/go.png" />
