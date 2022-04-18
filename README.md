@@ -1,5 +1,5 @@
 <h1 align="center">Hellu 🔕</h1>
-<p align="center"><img width="300" src="image/anime.jpg" />
+<p align="center"><img width="300" src="image/anime.png" />
 </p>
 
 I'm SaDi, Uzbek boy. So I'm a web junior developer.
