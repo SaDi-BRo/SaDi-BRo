@@ -1,4 +1,4 @@
-<h1 align="center">Hellu 🔕</h1>
+<h1 align="center">Hellu There 🔕</h1>
 <p align="center"><img width="300" src="image/anime.png" />
 </p>
 
