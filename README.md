@@ -1,13 +1,11 @@
-<h1 align="center">Hellu There 🔕</h1>
-<p align="center"><img width="300" src="image/anime.png" />
-</p>
+<h1 align="center">Hey There 🔕</h1>
 
-I'm SaDi, Uzbek boy. So I'm a web junior developer.
+I am SaDi, Uzbek boy. So I am web junior developer.
 <br />
-Status: <b>Trying</b>. Loves \*nix
+Status: <b>Trying</b>.
 
 <h2>Technologies</h2>
-HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, Next.js, Redux, Node.js, Deno.land, Git, GitHub, MongoDB, Nest.js, grammY, Linux, Arch Linux, Debian, VS Code, Neovim, Windows, Heroku, Docker
+HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, Next.js, Redux, Node.js, Deno.land, Git, GitHub, MongoDB, Nest.js, grammY, Arch Linux, Debian, VS Code, Neovim, Windows, PowerShell, Heroku, Docker
 
 <h2>Learning</h2>
 Rust, Go
