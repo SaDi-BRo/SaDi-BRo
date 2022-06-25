@@ -1,4 +1,4 @@
-<p align="center"><b>Hey There 🔕</b></p>
+<h1 align="center">Hey There 🔕</h1>
 
 I am SaDi, Uzbek boy. So I am web junior developer.
 <br />
