@@ -1,11 +1,11 @@
 <h1 align="center">Hey There</h1>
 
-I am SaDi, who is a web developer.
+I am SaDi, who is a Web Developer.
 <br />
 Status: <b>Trying</b>.
 
 <h2>Technologies:</h2>
-TypeScript, React.js, Next.js, Vue.js, Redux, Tailwind CSS, Node.js, Deno.land, GitHub, MongoDB, Nest.js, grammY, Arch Linux, Heroku
+TypeScript, Next.js, Vue.js, Redux Toolkit, Tailwind CSS, Node.js, Deno.land, GitHub, MongoDB, Nest.js, grammY, Arch Linux, Heroku
 
 <h2>Languages:</h2>
 1. Uzbek - Native <br />
