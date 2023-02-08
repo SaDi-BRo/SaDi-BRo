@@ -9,8 +9,8 @@ TypeScript, Next.js, Vue.js, Redux Toolkit, Tailwind CSS, Node.js, Deno.land, Gi
 
 <h2>Languages:</h2>
 1. Uzbek - Native <br />
-2. Russian - Elementary <br />
-3. English - Intermediate
+2. Russian - B1 <br />
+3. English - B2
 
 <h2>Likes:</h2>
 Simplifying, Aesthetics, Hanging out, Unboxing, Hacking, Riding a bike/horse, Reading, Developing
@@ -19,4 +19,4 @@ Simplifying, Aesthetics, Hanging out, Unboxing, Hacking, Riding a bike/horse, Re
 Rust, Go
 
 <h2>Contact:</h2>
-<a href="mailto:sayidullohabbasov0909@gmail.com">sayidullohabbasov0909@gmail.com</a>
+<a href="mailto:isadi@email.com">isadi@email.com</a>
